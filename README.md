@@ -56,7 +56,7 @@ feat: Base NFT mint example.
 
 docs: Base NFT deployment guide.
 
-chore: organize Base contract folder
+chore: organize Base contract folder.
 
 feat: add Base transaction status checker
 
