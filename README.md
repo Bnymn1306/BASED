@@ -104,7 +104,7 @@ docs: Base account abstraction overview.
 
 feat: integrate Base paymaster example.
 
-chore: update Base documentation links
+chore: update Base documentation links.
 
 refactor: restructure Base utils
 
