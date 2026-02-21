@@ -76,7 +76,7 @@ feat: Base ERC20 deployment script.
 
 chore: improve Base folder structure.
 
-docs: Base bridging tutorial
+docs: Base bridging tutorial.
 
 feat: add Base wallet auto reconnect
 
