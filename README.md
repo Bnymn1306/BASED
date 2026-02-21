@@ -46,7 +46,7 @@ feat: Base token transfer example.
 
 docs: Base security best practices.
 
-chore: update Base README section
+chore: update Base README section.
 
 feat: add Base multicall support
 
