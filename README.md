@@ -38,7 +38,7 @@ chore: add Base env sample file.
 
 docs: Base mainnet deployment steps.
 
-feat: add Base faucet instructions
+feat: add Base faucet instructions.
 
 refactor: improve Base error handling
 
