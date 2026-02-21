@@ -62,7 +62,7 @@ feat: add Base transaction status checker.
 
 docs: Base RPC troubleshooting guide.
 
-feat: implement Base ENS resolution
+feat: implement Base ENS resolution.
 
 chore: update Base script configs
 
