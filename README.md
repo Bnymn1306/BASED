@@ -19,7 +19,7 @@ feat: add Base transaction listener.
 docs: Base bridge usage guide.
 feat: add Base token interaction example.
 chore: clean Base config files.
-feat: integrate Base wallet signature
+feat: integrate Base wallet signature.
 docs: explain Base L2 architecture
 
 feat: add Base contract deployment script
