@@ -72,7 +72,7 @@ feat: add Base gas estimation logic.
 
 docs: Base rollup explanation.
 
-feat: Base ERC20 deployment script
+feat: Base ERC20 deployment script.
 
 chore: improve Base folder structure
 
