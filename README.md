@@ -64,7 +64,7 @@ docs: Base RPC troubleshooting guide.
 
 feat: implement Base ENS resolution.
 
-chore: update Base script configs
+chore: update Base script configs.
 
 refactor: optimize Base API calls
 
