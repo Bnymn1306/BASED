@@ -110,7 +110,7 @@ refactor: restructure Base utils.
 
 feat: add Base batch transaction support.
 
-docs: Base gas fee explanation
+docs: Base gas fee explanation.
 
 feat: Base smart wallet integration
 
