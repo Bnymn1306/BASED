@@ -80,7 +80,7 @@ docs: Base bridging tutorial.
 
 feat: add Base wallet auto reconnect.
 
-refactor: simplify Base transaction flow
+refactor: simplify Base transaction flow.
 
 feat: Base staking contract example
 
