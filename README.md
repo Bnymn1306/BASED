@@ -118,7 +118,7 @@ chore: improve Base comments.
 
 docs: Base roadmap summary.
 
-feat: add Base cross-chain example
+feat: add Base cross-chain example.
 
 refactor: enhance Base modular architecture
 
