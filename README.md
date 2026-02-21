@@ -94,7 +94,7 @@ docs: Base explorer verification guide.
 
 feat: Base smart contract upgrade example.
 
-refactor: improve Base deploy script
+refactor: improve Base deploy script.
 
 chore: clean unused Base files
 
