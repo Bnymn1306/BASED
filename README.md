@@ -50,7 +50,7 @@ chore: update Base README section.
 
 feat: add Base multicall support.
 
-refactor: clean Base network utils
+refactor: clean Base network utils.
 
 feat: Base NFT mint example
 
