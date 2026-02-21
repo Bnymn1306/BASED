@@ -32,7 +32,7 @@ feat: add Base balance checker.
 
 docs: add Base developer resources.
 
-feat: implement Base event listener
+feat: implement Base event listener.
 
 chore: add Base env sample file
 
