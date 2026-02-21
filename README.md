@@ -22,7 +22,7 @@ chore: clean Base config files.
 feat: integrate Base wallet signature.
 docs: explain Base L2 architecture.
 
-feat: add Base contract deployment script
+feat: add Base contract deployment script.
 
 chore: update Base dependencies
 
