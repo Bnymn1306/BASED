@@ -68,7 +68,7 @@ chore: update Base script configs.
 
 refactor: optimize Base API calls.
 
-feat: add Base gas estimation logic
+feat: add Base gas estimation logic.
 
 docs: Base rollup explanation
 
