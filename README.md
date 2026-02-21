@@ -58,7 +58,7 @@ docs: Base NFT deployment guide.
 
 chore: organize Base contract folder.
 
-feat: add Base transaction status checker
+feat: add Base transaction status checker.
 
 docs: Base RPC troubleshooting guide
 
