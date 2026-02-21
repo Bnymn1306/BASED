@@ -24,7 +24,7 @@ docs: explain Base L2 architecture.
 
 feat: add Base contract deployment script.
 
-chore: update Base dependencies
+chore: update Base dependencies.
 
 refactor: simplify Base contract ABI usage
 
