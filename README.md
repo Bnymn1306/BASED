@@ -108,7 +108,7 @@ chore: update Base documentation links.
 
 refactor: restructure Base utils.
 
-feat: add Base batch transaction support
+feat: add Base batch transaction support.
 
 docs: Base gas fee explanation
 
