@@ -86,7 +86,7 @@ feat: Base staking contract example.
 
 docs: Base validator overview.
 
-chore: update Base package config
+chore: update Base package config.
 
 feat: add Base contract verification script
 
