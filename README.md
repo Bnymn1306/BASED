@@ -40,7 +40,7 @@ docs: Base mainnet deployment steps.
 
 feat: add Base faucet instructions.
 
-refactor: improve Base error handling
+refactor: improve Base error handling.
 
 feat: Base token transfer example
 
