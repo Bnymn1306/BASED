@@ -70,7 +70,7 @@ refactor: optimize Base API calls.
 
 feat: add Base gas estimation logic.
 
-docs: Base rollup explanation
+docs: Base rollup explanation.
 
 feat: Base ERC20 deployment script
 
