@@ -9,4 +9,4 @@ feat: add Base wallet connection logic.
 refactor: optimize Base provider setup.
 feat: implement Base test transaction.
 docs: add Base deployment guide.
-feat: add Base Sepolia testnet config
+feat: add Base Sepolia testnet config.
