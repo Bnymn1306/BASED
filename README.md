@@ -84,7 +84,7 @@ refactor: simplify Base transaction flow.
 
 feat: Base staking contract example.
 
-docs: Base validator overview
+docs: Base validator overview.
 
 chore: update Base package config
 
