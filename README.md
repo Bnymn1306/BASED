@@ -88,7 +88,7 @@ docs: Base validator overview.
 
 chore: update Base package config.
 
-feat: add Base contract verification script
+feat: add Base contract verification script.
 
 docs: Base explorer verification guide
 
