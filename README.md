@@ -114,7 +114,7 @@ docs: Base gas fee explanation.
 
 feat: Base smart wallet integration.
 
-chore: improve Base comments
+chore: improve Base comments.
 
 docs: Base roadmap summary
 
