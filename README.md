@@ -48,7 +48,7 @@ docs: Base security best practices.
 
 chore: update Base README section.
 
-feat: add Base multicall support
+feat: add Base multicall support.
 
 refactor: clean Base network utils
 
