@@ -92,7 +92,7 @@ feat: add Base contract verification script.
 
 docs: Base explorer verification guide.
 
-feat: Base smart contract upgrade example
+feat: Base smart contract upgrade example.
 
 refactor: improve Base deploy script
 
