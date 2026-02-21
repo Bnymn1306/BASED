@@ -17,3 +17,4 @@ feat: add Base block explorer links
 refactor: improve Base network switching
 feat: add Base transaction listener
 docs: Base bridge usage guide
+feat: add Base token interaction example
