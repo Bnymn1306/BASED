@@ -106,7 +106,7 @@ feat: integrate Base paymaster example.
 
 chore: update Base documentation links.
 
-refactor: restructure Base utils
+refactor: restructure Base utils.
 
 feat: add Base batch transaction support
 
