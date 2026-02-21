@@ -30,7 +30,7 @@ refactor: simplify Base contract ABI usage.
 
 feat: add Base balance checker.
 
-docs: add Base developer resources
+docs: add Base developer resources.
 
 feat: implement Base event listener
 
