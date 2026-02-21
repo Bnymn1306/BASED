@@ -60,7 +60,7 @@ chore: organize Base contract folder.
 
 feat: add Base transaction status checker.
 
-docs: Base RPC troubleshooting guide
+docs: Base RPC troubleshooting guide.
 
 feat: implement Base ENS resolution
 
