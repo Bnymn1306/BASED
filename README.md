@@ -34,7 +34,7 @@ docs: add Base developer resources.
 
 feat: implement Base event listener.
 
-chore: add Base env sample file
+chore: add Base env sample file.
 
 docs: Base mainnet deployment steps
 
