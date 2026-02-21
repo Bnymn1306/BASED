@@ -100,7 +100,7 @@ chore: clean unused Base files.
 
 feat: add Base signature verification.
 
-docs: Base account abstraction overview
+docs: Base account abstraction overview.
 
 feat: integrate Base paymaster example
 
