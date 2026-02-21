@@ -26,7 +26,7 @@ feat: add Base contract deployment script.
 
 chore: update Base dependencies.
 
-refactor: simplify Base contract ABI usage
+refactor: simplify Base contract ABI usage.
 
 feat: add Base balance checker
 
