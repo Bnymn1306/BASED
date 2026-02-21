@@ -28,7 +28,7 @@ chore: update Base dependencies.
 
 refactor: simplify Base contract ABI usage.
 
-feat: add Base balance checker
+feat: add Base balance checker.
 
 docs: add Base developer resources
 
