@@ -66,7 +66,7 @@ feat: implement Base ENS resolution.
 
 chore: update Base script configs.
 
-refactor: optimize Base API calls
+refactor: optimize Base API calls.
 
 feat: add Base gas estimation logic
 
