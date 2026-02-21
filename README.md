@@ -10,3 +10,4 @@ refactor: optimize Base provider setup.
 feat: implement Base test transaction.
 docs: add Base deployment guide.
 feat: add Base Sepolia testnet config.
+chore: update Base RPC URLs
