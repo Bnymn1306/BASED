@@ -78,7 +78,7 @@ chore: improve Base folder structure.
 
 docs: Base bridging tutorial.
 
-feat: add Base wallet auto reconnect
+feat: add Base wallet auto reconnect.
 
 refactor: simplify Base transaction flow
 
