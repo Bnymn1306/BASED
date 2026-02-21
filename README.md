@@ -12,3 +12,4 @@ docs: add Base deployment guide.
 feat: add Base Sepolia testnet config.
 chore: update Base RPC URLs
 feat: implement Base smart contract template
+docs: add Base gas optimization notes
