@@ -112,7 +112,7 @@ feat: add Base batch transaction support.
 
 docs: Base gas fee explanation.
 
-feat: Base smart wallet integration
+feat: Base smart wallet integration.
 
 chore: improve Base comments
 
