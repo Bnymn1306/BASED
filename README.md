@@ -98,7 +98,7 @@ refactor: improve Base deploy script.
 
 chore: clean unused Base files.
 
-feat: add Base signature verification
+feat: add Base signature verification.
 
 docs: Base account abstraction overview
 
