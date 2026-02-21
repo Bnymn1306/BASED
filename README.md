@@ -74,7 +74,7 @@ docs: Base rollup explanation.
 
 feat: Base ERC20 deployment script.
 
-chore: improve Base folder structure
+chore: improve Base folder structure.
 
 docs: Base bridging tutorial
 
