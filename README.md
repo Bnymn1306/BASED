@@ -54,7 +54,7 @@ refactor: clean Base network utils.
 
 feat: Base NFT mint example.
 
-docs: Base NFT deployment guide
+docs: Base NFT deployment guide.
 
 chore: organize Base contract folder
 
