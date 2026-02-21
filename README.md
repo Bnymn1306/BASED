@@ -14,3 +14,4 @@ chore: update Base RPC URLs
 feat: implement Base smart contract template
 docs: add Base gas optimization notes
 feat: add Base block explorer links
+refactor: improve Base network switching
