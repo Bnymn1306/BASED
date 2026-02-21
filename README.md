@@ -15,3 +15,4 @@ feat: implement Base smart contract template
 docs: add Base gas optimization notes
 feat: add Base block explorer links
 refactor: improve Base network switching
+feat: add Base transaction listener
