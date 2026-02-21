@@ -42,7 +42,7 @@ feat: add Base faucet instructions.
 
 refactor: improve Base error handling.
 
-feat: Base token transfer example
+feat: Base token transfer example.
 
 docs: Base security best practices
 
