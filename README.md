@@ -116,7 +116,7 @@ feat: Base smart wallet integration.
 
 chore: improve Base comments.
 
-docs: Base roadmap summary
+docs: Base roadmap summary.
 
 feat: add Base cross-chain example
 
