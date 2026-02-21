@@ -4,3 +4,4 @@ feat: add Base network configuration.
 docs: add Base ecosystem overview
 feat: integrate Base RPC endpoint
 chore: setup Base environment variables
+docs: add Base chain ID documentation
