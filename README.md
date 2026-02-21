@@ -96,7 +96,7 @@ feat: Base smart contract upgrade example.
 
 refactor: improve Base deploy script.
 
-chore: clean unused Base files
+chore: clean unused Base files.
 
 feat: add Base signature verification
 
