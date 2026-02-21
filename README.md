@@ -52,7 +52,7 @@ feat: add Base multicall support.
 
 refactor: clean Base network utils.
 
-feat: Base NFT mint example
+feat: Base NFT mint example.
 
 docs: Base NFT deployment guide
 
