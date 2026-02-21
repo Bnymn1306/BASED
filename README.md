@@ -102,7 +102,7 @@ feat: add Base signature verification.
 
 docs: Base account abstraction overview.
 
-feat: integrate Base paymaster example
+feat: integrate Base paymaster example.
 
 chore: update Base documentation links
 
