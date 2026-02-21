@@ -82,7 +82,7 @@ feat: add Base wallet auto reconnect.
 
 refactor: simplify Base transaction flow.
 
-feat: Base staking contract example
+feat: Base staking contract example.
 
 docs: Base validator overview
 
