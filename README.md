@@ -120,7 +120,7 @@ docs: Base roadmap summary.
 
 feat: add Base cross-chain example.
 
-refactor: enhance Base modular architecture
+refactor: enhance Base modular architecture.
 
 feat: Base liquidity pool example
 
